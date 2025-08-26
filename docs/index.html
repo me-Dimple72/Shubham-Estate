@@ -4,13 +4,16 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Shubham Estate</title>
-  <link rel="stylesheet" href="./style.css" >
+  <!-- <link rel="stylesheet" href="./style.css" > -->
+  <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css" />
+
 </head>
 <body>
   <section class="hero">
     <div class="hero-left">
       <p class="hero-label">SHUBHAM ESTATE</p>
-      <h1>
+      <!-- <h1> -->
+      <h1 data-aos="zoom-in">
         Let us help<br />
         you find your <em>dream home or land.</em>
       </h1>
@@ -94,6 +97,14 @@
     </ul>
   </div>
 </section>
+
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script>
+  AOS.init({
+    duration: 1200,   // animation speed (ms)
+    once: true        // only animate once
+  });
+</script>
 
 
 </body>
