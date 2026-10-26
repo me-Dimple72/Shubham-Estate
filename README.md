@@ -14,8 +14,6 @@ Responsive Design – Optimized for desktop and mobile devices
 
 
 
-Hosting: Deployed on Hostinger 
-
 📌 Project Goals
 
 Deliver a professional, user-friendly real estate platform
