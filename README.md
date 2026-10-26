@@ -12,13 +12,7 @@ Contact & Enquiry – Direct access via phone, email, and WhatsApp
 
 Responsive Design – Optimized for desktop and mobile devices
 
-🛠️ Tech Stack
 
-Frontend: HTML, CSS, JavaScript
-
-Backend: Node.js / Express (server-side handling)
-
-Database: MongoDB / SQL (for storing properties & reviews)
 
 Hosting: Deployed on Hostinger 
 
